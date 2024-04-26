@@ -38,4 +38,4 @@ If you intend to access a project directly from Github is important that you get
 
 A more detailed tutorial can be found in the following link: https://youtu.be/G7xH78l0zwI 
 
-Link to my repository: https://github.com/ST10438375-LeandraInaraFrancoDaSilva?tab=repositories 
+Link to my repository: https://github.com/VCCT-IMAD5112-2024-G2/MyTamagotchiApp.git
